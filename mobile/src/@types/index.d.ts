@@ -1,0 +1,1 @@
+declare module "*.png"; // permite arquivos PNG serem importados no TypeScript
