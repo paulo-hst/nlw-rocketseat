@@ -1,10 +1,10 @@
-<h1 align="center">NodeJS - Rocketseat Starter</h1>
+<h1 align="center">Happy - Rocketseat Next Level Week</h1>
 <h1 align="center">
   <img alt="happy" title="happy" src="./app.png" width="400px"/>
 </h1>
 
 ## Objetivo
-Projeto 'Happy' da Next Level Week da Rocketseat que construi uma aplicação web e mobile que permite cadastro e pesquisa de casas de acolhimento institucional com imagens e detalhe de funcionamento.
+Projeto 'Happy' da Next Level Week da Rocketseat que construi uma aplicação web e mobile que permite cadastro e pesquisa de casas de acolhimento institucional com detalhe de funcionamento.
 
 ## Tecnologias / Ferramentas / Bibliotecas
 - JavaScript
