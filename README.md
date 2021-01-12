@@ -1,6 +1,6 @@
 <h1 align="center">Happy - Rocketseat Next Level Week</h1>
 <h1 align="center">
-  <img alt="happy" title="happy" src="./prints/web1.png" width="300px"/>
+  <img alt="happy" title="happy" src="prints/web1.png" width="300px"/>
 </h1>
 
 ## Objetivo
