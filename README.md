@@ -75,7 +75,12 @@ Projeto 'Happy' da Next Level Week da Rocketseat que construi uma aplicação we
 - [Rocketseat](https://rocketseat.com.br/)
 
 ## Prints
-  <img alt="happy" title="happy" src="./prints/web2.jpg" width="300px"/>
+<p float="left">
+  <img alt="happy" title="happy" src="./prints/web2.jpg" width="400px"/>
   <img alt="happy" title="happy" src="./prints/web3.jpg" width="300px"/>
+</p>
+<p float="left">
   <img alt="happy" title="happy" src="./prints/mobile1.jpg" width="200px"/>
   <img alt="happy" title="happy" src="./prints/mobile2.jpg" width="200px"/>
+  <img alt="happy" title="happy" src="./prints/mobile3.jpg" width="200px"/>
+</p>
