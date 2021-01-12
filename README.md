@@ -1,6 +1,6 @@
 <h1 align="center">Happy - Rocketseat Next Level Week</h1>
 <h1 align="center">
-  <img alt="happy" title="happy" src="prints/web1.png" width="300px"/>
+  <img alt="happy" title="happy" src="prints/web1.jpg" width="400px"/>
 </h1>
 
 ## Objetivo
@@ -75,7 +75,7 @@ Projeto 'Happy' da Next Level Week da Rocketseat que construi uma aplicação we
 - [Rocketseat](https://rocketseat.com.br/)
 
 ## Prints
-  <img alt="happy" title="happy" src="./prints/web2.png" width="300px"/>
-  <img alt="happy" title="happy" src="./prints/web3.png" width="300px"/>
-  <img alt="happy" title="happy" src="./prints/mobile1.png" width="300px"/>
-  <img alt="happy" title="happy" src="./prints/mobile2.png" width="300px"/>
+  <img alt="happy" title="happy" src="./prints/web2.jpg" width="300px"/>
+  <img alt="happy" title="happy" src="./prints/web3.jpg" width="300px"/>
+  <img alt="happy" title="happy" src="./prints/mobile1.jpg" width="200px"/>
+  <img alt="happy" title="happy" src="./prints/mobile2.jpg" width="200px"/>
