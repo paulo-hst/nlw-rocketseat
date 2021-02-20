@@ -6,6 +6,10 @@
 ## Objetivo
 Projeto 'Happy' da Next Level Week da Rocketseat que construi uma aplicação web e mobile que permite cadastro e pesquisa de casas de acolhimento institucional com detalhe de funcionamento.
 
+## Exemplo da aplicação
+[Clique aqui!](https://happy-mu-azure.vercel.app/)
+
+
 ## Tecnologias / Ferramentas / Bibliotecas
 - JavaScript
 - TypeScript
